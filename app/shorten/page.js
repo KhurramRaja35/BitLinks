@@ -42,7 +42,7 @@ const Shorten = () => {
         
             <main className='h-[calc(100vh-9rem)] md:h-[calc(100vh-8rem)] box-border px-5 py-10 md:px-0 md:py-20'>
                 <div className=' md:mx-auto max-w-lg bg-purple-100  p-8 rounded-lg flex flex-col gap-4'>
-                    <h1 className='font-bold text-3xl text-center'>Generate Your Short URL's</h1>
+                    <h1 className='font-bold text-3xl text-center'>Generate Your Short URL&apos;s</h1>
                     <div className='flex flex-col items-center gap-5'>
                         <input className='px-4 py-2 bg-white focus:outline-purple-600 rounded-md w-full'
                             type="text"
